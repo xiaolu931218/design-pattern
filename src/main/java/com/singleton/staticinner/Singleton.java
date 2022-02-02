@@ -1,7 +1,7 @@
 package com.singleton.staticinner;
 
 /**
- * 双重检查锁模式
+ * 静态内部类方式
  */
 public class Singleton {
 
